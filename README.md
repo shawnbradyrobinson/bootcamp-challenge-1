@@ -35,8 +35,8 @@ To accomplish this, the following changes were made to the given site:
 5. I restructured the HTML page to better accommodate the new CSS classes and semantic tags. 
 
 Here are some screenshots of the CSS changes: 
-![](assets/images/benefits-screenshot.png)
-![](assets/images/selling-points-screenshot.png)
+![Screenshot showing a CSS file with a new class named 'Benefits'](assets/images/benefits-screenshot.png)
+![Screenshot showing a CSS file with a new class named 'Selling-Points'](assets/images/selling-points-screenshot.png)
 
 ## Credits
 
